@@ -1,0 +1,11 @@
+{
+  "method": "popari",
+  "celltype": "Microglia",
+  "runtime_sec": 2900.76,
+  "status": "completed",
+  "k": 4,
+  "device": "cuda:2",
+  "nmf_iters": 10,
+  "train_iters": 200,
+  "seed": 0
+}

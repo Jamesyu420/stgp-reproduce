@@ -1,0 +1,10 @@
+{
+  "method": "mefisto",
+  "celltype": "Microglia",
+  "runtime_sec": 4862.63,
+  "status": "completed",
+  "k": 4,
+  "n_inducing": 1000,
+  "train_iters": 1000,
+  "seed": 0
+}

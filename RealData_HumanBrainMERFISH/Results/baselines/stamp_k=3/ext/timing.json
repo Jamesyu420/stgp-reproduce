@@ -1,0 +1,11 @@
+{
+  "method": "stamp",
+  "celltype": "ext",
+  "runtime_sec": 1595.79,
+  "status": "completed",
+  "k": 3,
+  "device": "cuda:2",
+  "max_epochs": 400,
+  "min_epochs": 100,
+  "seed": 0
+}

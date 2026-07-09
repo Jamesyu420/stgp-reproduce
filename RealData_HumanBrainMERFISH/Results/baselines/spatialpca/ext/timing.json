@@ -1,0 +1,8 @@
+{
+  "method": "spatialpca",
+  "celltype": "ext",
+  "runtime_sec": 526.31,
+  "status": "completed",
+  "k": 4,
+  "bandwidth": 0.1
+}

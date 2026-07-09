@@ -1,0 +1,122 @@
+{
+  "method": "SpatialPCA",
+  "input": "data/processed/Microglia.h5ad",
+  "out_dir": "Results/baselines/spatialpca/Microglia",
+  "k": 4,
+  "group_col": "mouse_id",
+  "seed": 1234,
+  "bandwidth_common": 0.1,
+  "eigenvecnum": 100,
+  "nfeatures_anchor": 2000,
+  "integration_dims": 30,
+  "integration_reduction": "rpca",
+  "sparse_kernel_tol": 1e-05,
+  "sparse_kernel_ncore": 8,
+  "n_samples": 20,
+  "n_cells": 52417,
+  "n_genes_used": 220,
+  "sample_map": [
+    {
+      "group_value": "1",
+      "spca_name": "Sample1",
+      "n_cells": 2543
+    },
+    {
+      "group_value": "101",
+      "spca_name": "Sample2",
+      "n_cells": 2518
+    },
+    {
+      "group_value": "11",
+      "spca_name": "Sample3",
+      "n_cells": 2390
+    },
+    {
+      "group_value": "14",
+      "spca_name": "Sample4",
+      "n_cells": 2789
+    },
+    {
+      "group_value": "19",
+      "spca_name": "Sample5",
+      "n_cells": 2258
+    },
+    {
+      "group_value": "30",
+      "spca_name": "Sample6",
+      "n_cells": 2538
+    },
+    {
+      "group_value": "33",
+      "spca_name": "Sample7",
+      "n_cells": 2398
+    },
+    {
+      "group_value": "38",
+      "spca_name": "Sample8",
+      "n_cells": 2543
+    },
+    {
+      "group_value": "42",
+      "spca_name": "Sample9",
+      "n_cells": 2796
+    },
+    {
+      "group_value": "46",
+      "spca_name": "Sample10",
+      "n_cells": 2434
+    },
+    {
+      "group_value": "53",
+      "spca_name": "Sample11",
+      "n_cells": 2195
+    },
+    {
+      "group_value": "57",
+      "spca_name": "Sample12",
+      "n_cells": 2711
+    },
+    {
+      "group_value": "61",
+      "spca_name": "Sample13",
+      "n_cells": 2498
+    },
+    {
+      "group_value": "7",
+      "spca_name": "Sample14",
+      "n_cells": 2497
+    },
+    {
+      "group_value": "70",
+      "spca_name": "Sample15",
+      "n_cells": 2136
+    },
+    {
+      "group_value": "75",
+      "spca_name": "Sample16",
+      "n_cells": 2870
+    },
+    {
+      "group_value": "80",
+      "spca_name": "Sample17",
+      "n_cells": 2738
+    },
+    {
+      "group_value": "86",
+      "spca_name": "Sample18",
+      "n_cells": 2826
+    },
+    {
+      "group_value": "93",
+      "spca_name": "Sample19",
+      "n_cells": 3113
+    },
+    {
+      "group_value": "97",
+      "spca_name": "Sample20",
+      "n_cells": 3626
+    }
+  ],
+  "seurat_version": "5.4.0",
+  "spatialpca_version": "1.3.0"
+}

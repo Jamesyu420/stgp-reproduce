@@ -1,0 +1,10 @@
+{
+  "method": "mefisto",
+  "celltype": "ext",
+  "runtime_sec": 3178.98,
+  "status": "completed",
+  "k": 4,
+  "n_inducing": 1000,
+  "train_iters": 1000,
+  "seed": 0
+}

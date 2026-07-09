@@ -1,0 +1,11 @@
+{
+  "method": "stamp",
+  "celltype": "Microglia",
+  "runtime_sec": 3694.03,
+  "status": "completed",
+  "k": 4,
+  "device": "cuda:0",
+  "max_epochs": 400,
+  "min_epochs": 100,
+  "seed": 0
+}

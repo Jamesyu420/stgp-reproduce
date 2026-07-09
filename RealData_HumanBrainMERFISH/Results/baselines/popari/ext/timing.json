@@ -1,0 +1,12 @@
+{
+  "method": "popari",
+  "celltype": "ext",
+  "runtime_sec": 7230.62,
+  "status": "completed",
+  "k": 4,
+  "n_hvg": 200,
+  "device": "cuda:0",
+  "nmf_iters": 10,
+  "train_iters": 200,
+  "seed": 0
+}

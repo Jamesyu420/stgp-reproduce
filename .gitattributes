@@ -1,0 +1,10 @@
+RealData_MouseKidneyXenium/data/processed/Fib.h5ad filter=lfs diff=lfs merge=lfs -text
+RealData_MouseKidneyXenium/data/processed/Inj_PT.h5ad filter=lfs diff=lfs merge=lfs -text
+RealData_MouseBrainMERFISH/Results/baselines/stamp/Microglia/adata_with_scores_niche_scope_compat.h5ad filter=lfs diff=lfs merge=lfs -text
+RealData_MouseBrainMERFISH/Results/baselines/stamp/Microglia/adata_with_scores.h5ad filter=lfs diff=lfs merge=lfs -text
+RealData_MouseBrainMERFISH/Results/baselines/spatialpca/Microglia/adata_with_scores.h5ad filter=lfs diff=lfs merge=lfs -text
+RealData_MouseBrainMERFISH/Results/baselines/popari/Microglia/res_popari.h5ad filter=lfs diff=lfs merge=lfs -text
+RealData_MouseBrainMERFISH/Results/baselines/popari/Microglia/preprocessed_popari_dataset.h5ad filter=lfs diff=lfs merge=lfs -text
+RealData_MouseBrainMERFISH/Results/baselines/popari/Microglia/res_popari_niche_scope_compat.h5ad filter=lfs diff=lfs merge=lfs -text
+RealData_HumanBrainMERFISH/Results/baselines/spatialpca/ext/adata_with_scores.h5ad filter=lfs diff=lfs merge=lfs -text
+RealData_HumanBrainMERFISH/Results/baselines/stamp_k=3/ext/adata_with_scores.h5ad filter=lfs diff=lfs merge=lfs -text
